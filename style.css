@@ -10,6 +10,7 @@ h1{
     color: aquamarine;
     font-weight: 900;
     font-style: italic;
+    font-family: "Lobster", sans-serif;
     
 }
 
@@ -27,6 +28,8 @@ p{
     color: darkgrey;
     color: aquamarine;
     font-style: italic;
+    font-weight: 900;
+    font-family: "Lobster", sans-serif;
 }
 
 .container{
