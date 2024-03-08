@@ -8,7 +8,7 @@ h1{
     font-size: 5rem;
     margin: 5%;
     color: aquamarine;
-    font-weight: 900;
+    font-weight: 500;
     font-style: italic;
     font-family: "Lobster", sans-serif;
     
@@ -28,7 +28,7 @@ p{
     color: darkgrey;
     color: aquamarine;
     font-style: italic;
-    font-weight: 900;
+    font-weight: 400;
     font-family: "Lobster", sans-serif;
 }
 
